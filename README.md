@@ -18,5 +18,4 @@ Una aplicación web sencilla para organizar un juego de "Amigo Secreto". Permite
 
 1. Clona o descarga el repositorio:
    ```bash
-   git clone 
-   
+   git clone https://github.com/m-6264/Challenge-amigo-secreto
